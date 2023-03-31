@@ -5,7 +5,7 @@
 <tr>
   <td valign="center">
     🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.<br>
-    🎯 I’m looking for <b>new experiences and opportunities in IT field</b>.<br>
+    🎯 I’m looking for <b>new experiences and opportunities in AI and web Development </b>.<br>
    
    </td>
    <td valign="center">
