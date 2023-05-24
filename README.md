@@ -35,6 +35,5 @@
 </p>
 <h3 align="left">Activity graph :</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MouhtaramSoufiane&bg_color=030303&color=29d64b&line=18c964&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MouhtaramSoufiane&custom_title=Mouhtaram%20Soufiane's%20Contribution%20Graph&hide_border=true&bg_color=343a40&color=dc3545)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
