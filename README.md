@@ -1,3 +1,7 @@
+<p align="right" width="100%">
+    <img  src="https://komarev.com/ghpvc/?username=MouhtaramSoufiane&color=blue&style=flat-square"> 
+</p>
+
 <p align="center">
 <a href="https://github.com/MouhtaramSoufiane">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Soufiane+MOUHTARAM;Distributed Systems and Artificial Intelligence Master's Degree Student;Software+Engineer" alt="Typing SVG" />
